@@ -1,3 +1,3 @@
-def call(String name, String date) {
-    echo "Hi '${name}', today is '${date}'"
+def call() {
+    echo "Hello! Shared Library is working."
 }
